@@ -30,4 +30,4 @@ There are no specific deployment steps for this project. It is designed for anal
 No user-configurable parameters. The configuration involves installing the required dependencies and setting up the environment.
 
 ## API Reference
-This project on external APIs. Flask's Strip Extension and G-mail API Password is necessary. You neep to get an Gmail and Strip keys. 
+This project on external APIs. Flask's Strip Extension and G-mail API Password is necessary. You neep to get an Gmail and Strip keys. And edit the file instances/setting.py accordingly.
