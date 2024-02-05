@@ -13,6 +13,7 @@ docker-compose up --build
 ## Built With
 - Python
 - Sublime Text 3
+- Ubuntu 22.04.3
 
 ## Building
 This project does not require any additional building steps.
